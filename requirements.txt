@@ -1,0 +1,7 @@
+agno
+openai
+chromadb
+pypdf
+groq
+python-dotenv
+streamlit
